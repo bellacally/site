@@ -271,6 +271,13 @@ hr {
  * Lists - (_document-setup.scss)
  * -------------------------------------------------------------------
  */
+ .fa-linkedin:before {
+	content: "\f0e1";
+    position: absolute;
+    left: 30px;
+    bottom: 310px;
+}
+
 ol {
 	list-style: decimal;
 }
